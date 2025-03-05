@@ -1,4 +1,4 @@
-name: astrbot_plugin_buckshot_roulette  # 插件的唯一识别名
+name: buckshot_roulette_plus  # 插件的唯一识别名
 desc: 恶魔轮盘 - Buckshot Roulette       # 插件的简短描述
 help: | 
   这是一个在 AstrBot 上运行的恶魔轮盘游戏插件，支持在群聊中进行 2 人对战，通过随机子弹与多种道具进行博弈。
@@ -9,6 +9,7 @@ help: |
     - /恶魔轮盘 开始游戏
     - /恶魔轮盘 对战信息
     - /恶魔轮盘 结束游戏
+    - /恶魔轮盘 子弹状态
 
   游戏流程：
     1. 玩家1使用「/恶魔轮盘 创建游戏」等待另一位玩家加入；
