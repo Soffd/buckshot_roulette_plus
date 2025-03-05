@@ -20,7 +20,7 @@ def generate_random_bullet_list():
 
 @register(
     "buckshot_roulette_plus",  # 插件唯一识别名
-    "原w33d 改Soffd",                              # 作者
+    "Soffd",                              # 作者
     "恶魔轮盘 - Buckshot Roulette",       # 简短描述
     "1.1.1"                              # 版本号
 )
