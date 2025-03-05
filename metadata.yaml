@@ -17,5 +17,5 @@ help: |
     3. 输入「自己」或「对方」来开枪，输入道具名来使用道具，直到一方倒下或主动结束。
 
 version: v1.1.1 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: 原w33d 改Soffd # 作者
+author: Soffd # 作者
 repo: https://github.com/Soffd/buckshot_roulette_plus # 插件的仓库地址
